@@ -1,1 +1,3 @@
 a retrive the commands
+
+the changes of txt file
